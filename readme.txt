@@ -1,6 +1,6 @@
 
 Description:
-SimpleBomber is a console bomber plane game (Microsoft Visual Studio 2022)
+SimpleBomber is a console bomber plane game (Microsoft Visual Studio 2022, C++17)
 
 Future:
 Improve console animation speed
